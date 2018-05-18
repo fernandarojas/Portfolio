@@ -1,0 +1,30 @@
+
+.jumbotron {
+	height: 500px;
+	background-image: url(../images/background-image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#main-text{
+	color: white;
+	font-weight: 220;
+	line-height: 18px;
+}
+
+.img-thumbnail {
+	border-style: none;
+}
+
+form {
+	margin: 50px;
+	padding-bottom: 30px;
+}
+
+.navbar { 
+	padding: 30px;
+}
+
+.photos { 
+	margin: 100px;
+}
