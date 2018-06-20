@@ -28,3 +28,7 @@ form {
 .photos { 
 	margin: 100px;
 }
+
+.btn-default { 
+	border-color: black;
+}
